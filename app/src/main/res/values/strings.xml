@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VisitedPlacesMapsPractice</string>
+    <string name="title_activity_maps_places_selector">MapsPlacesSelector</string>
+</resources>
